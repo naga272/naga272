@@ -8,7 +8,7 @@ My name is Bastianello Federico, i'm 19 and i would like became a kernel develop
 - C and assembly 
 - Python
 
-###🔭 I’m currently working on 
+### 🔭 I’m currently working on 
 - a bootloader for the turing machine in asm x16, 
 - a compiler with Python and Assembly
 - the Forum of my school 
