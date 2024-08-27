@@ -3,7 +3,7 @@
 I'm a 19-year-old aspiring kernel developer with a passion for low-level programming and system architecture. I'm currently honing my skills in C, Assembly, and Python as I work towards my goal of contributing to the open-source community.
 
 ### 💻 Skills
-- **Languages:** C, Assembly (x16), Python
+- **Languages:** C, Assembly (x16), Python, HTML5, CSS3, JavaScript
 - **Tools & Technologies:** Git, Linux
 - **Areas of Interest:** Kernel Development, Compilers, Bootloaders, System Programming, data analysis
 
