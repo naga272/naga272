@@ -18,4 +18,4 @@ I'm a 19-year-old aspiring kernel developer with a passion for low-level program
 
 ### 📫 How to Reach Me
 - **Email:** bastianellofederico4@gmail.com
-- **LinkedIn:** [Bastianello Federico]([https://www.linkedin.com/in/federico-bastianello-352b50271/](https://www.linkedin.com/in/federico-bastianello-164657351?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHACOn15S96gGcQjCujlcw%3D%3D))
+- **LinkedIn:** [Bastianello Federico](https://www.linkedin.com/in/federico-bastianello-164657351?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHACOn15S96gGcQjCujlcw%3D%3D)
