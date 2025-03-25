@@ -8,7 +8,7 @@ I'm a 19-year-old aspiring kernel developer with a passion for low-level program
 - **Areas of Interest:** Kernel Development, Compilers, Bootloaders, System Programming, data analysis
 
 ### 🔭 Projects I'm Working On
-- **Bootloader for the Turing Machine in ASM x32:** Developing a custom bootloader to explore low-level programming and system initialization.
+- **kernel in ASM and C x32:** Developing a custom bootloader to explore low-level programming and system initialization.
 - **Compiler with Python and Assembly:** Building a compiler to deepen my understanding of programming languages and compilation processes.
 - **School Forum:** A forum for my school, where I'm responsible for the backend development.
 
